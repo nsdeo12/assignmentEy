@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: assignmentEy
+Implementation-Version: 0.1.0-SNAPSHOT
+Specification-Vendor: assignmentey
+Specification-Title: assignmentEy
+Implementation-Vendor-Id: assignmentey
+Specification-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: assignmentey
+
